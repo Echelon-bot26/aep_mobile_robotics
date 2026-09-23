@@ -1,2 +1,2 @@
 # aep_mobile_robotics
-Assignment
+Mobile robotics projects and exercises from the Aurora Educators Program (AEP).
